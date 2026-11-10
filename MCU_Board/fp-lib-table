@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/MCU_Board/Footprints/MCU/Library.pretty")(options "")(descr ""))
+)
